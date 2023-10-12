@@ -1,0 +1,7 @@
+
+.profile-image{
+    max-width: 100%;
+  height: auto;
+  border-radius: 50%; /* Optional: Apply a circular border radius */
+  margin-bottom: 16px;
+}
